@@ -1,0 +1,4 @@
+E:\C-DAC\C#\MyVisualStudioProjects\WcfService1\bin\WcfService1.dll
+E:\C-DAC\C#\MyVisualStudioProjects\WcfService1\bin\WcfService1.pdb
+E:\C-DAC\C#\MyVisualStudioProjects\WcfService1\obj\Debug\WcfService1.dll
+E:\C-DAC\C#\MyVisualStudioProjects\WcfService1\obj\Debug\WcfService1.pdb
